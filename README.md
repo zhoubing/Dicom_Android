@@ -1,7 +1,19 @@
+### 关于DICOM文件的相关知识
 https://blog.csdn.net/qq_45445740/article/details/121566988
+
+### 医学图像DICOM文件解析——DICOM内部信息详解篇
 https://blog.csdn.net/Joker00007/article/details/127754815
+
+### android 解析并显示dicom文件的数据和图像
 https://blog.csdn.net/wenzhi20102321/article/details/75040225
-https://bbs.csdn.net/topics/392381938?page=1
+
+### dicom 压缩版本
+https://blog.csdn.net/Kerrigeng/article/details/62215647
+https://www.codenong.com/cs107098943/
+https://gitcode.net/mirrors/dcm4che/dcm4che/-/tree/master/dcm4che-imageio-opencv/src
+https://sourceforge.net/projects/dcm4che/files/dcm4che3/5.29.1/
+
+
 http://www.reachsoft.com.cn/product/278159947
 http://www.huijoo.com/p/G000585B012436S001
 
