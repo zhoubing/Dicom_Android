@@ -1,3 +1,6 @@
+### Dicom 压缩协议
+http://www.dicomlibrary.com/dicom/transfer-syntax/
+
 ### 关于DICOM文件的相关知识
 https://blog.csdn.net/qq_45445740/article/details/121566988
 
@@ -8,6 +11,10 @@ https://blog.csdn.net/Joker00007/article/details/127754815
 https://blog.csdn.net/wenzhi20102321/article/details/75040225
 
 ### dicom 压缩版本
+https://blog.csdn.net/lemin_zhao/article/details/104182006
+https://blog.csdn.net/qq_16022261/article/details/107098943
+https://www.cnblogs.com/0523jy/p/13745769.html
+
 https://blog.csdn.net/Kerrigeng/article/details/62215647
 https://www.codenong.com/cs107098943/
 https://gitcode.net/mirrors/dcm4che/dcm4che/-/tree/master/dcm4che-imageio-opencv/src

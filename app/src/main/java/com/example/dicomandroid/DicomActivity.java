@@ -70,6 +70,9 @@ public class DicomActivity extends AppCompatActivity {
         DicomImageReader dr = new DicomImageReader();
         try {
             DicomInputStream dicomInputStream = new DicomInputStream(dstFile);
+            String transferSyntax = dicomInputStream.getTransferSyntax();
+            Log.e("Dicom", "压缩协议: " + transferSyntax);
+
             Attributes attributes = dicomInputStream.readDataset(-1, -1);
             Log.e("Dicom", "所有Dicom属性信息: " + attributes);
             int row = attributes.getInt(Tag.Rows, 1);
